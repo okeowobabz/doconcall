@@ -1,0 +1,59 @@
+@charset "UTF-8";
+header nav span{
+    margin-left: 410px;
+    width: 450px;
+}
+#cts{
+    color: #B60B05;
+    font-weight: 500; 
+}
+main{
+    padding: 0px 140px 0px 140px;
+    color: #525355;
+    line-height: 2em;
+}
+#hd1{
+    margin-top: 70px;
+    font-size: 40px;
+    color: #229DE8;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.sec{
+    margin-top: 45px;
+}
+.sec img{
+    float: left;
+    margin-right: 320px;
+}
+#hd2{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #229DE8;
+    font-weight: 500;
+    margin-bottom: 15px; 
+}
+.meet{
+    margin-top: 45px;
+    text-align: center; 
+}
+.same{
+    float: left;
+    width: 270px;
+    height: 245px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    margin-right: 120px;
+    margin-top: 60px;
+}
+.exp{
+    float: left;
+    width: 270px;
+    height: 245px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    margin-top: 60px; 
+}
+.five{
+    margin-top: 30%;
+}

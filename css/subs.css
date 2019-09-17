@@ -1,0 +1,96 @@
+@charset "UTF-8";
+body{
+    background-color: #F1F1F1;
+}
+.lala{
+    background-color: #fff;
+}
+header nav span{
+    width: 200px;
+}
+header nav span a{
+    color: #868686;
+}
+header nav span button{
+    position: relative;
+    bottom: 20px;
+    width: 55px;
+    height: 55px;
+    background-color: #fff;
+    border: none;
+    border-radius: 50px;
+    color: #229DE8;
+    font-size: 25px;
+    font-weight: 600;
+    box-shadow: 0px 3px 6px #00000029;
+}
+main{
+    padding: 40px 135px 25px 140px;   
+    color: #6E7275;
+    font-size: 22px;
+}
+main h1{
+    font-size: 32px;
+    font-weight: 500;
+    display: inline;
+}
+#his{
+    float: right;
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #229DE8;
+    color: #fff;
+    font-size: 18px;
+    box-shadow: 0px 0px 2px .3px gainsboro;
+}
+main p span{
+    color: #229DE8;
+}
+#chp{
+    width: 175px;
+    height: 40px;
+    border: 2px solid #229DE8;;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 18px;
+    box-shadow: 0px 0px 2px .3px gainsboro;
+}
+#chp a{
+    color: #229DE8;
+}
+.mid{
+    padding: 15px 0px 350px 140px;
+    color: #747474;
+    font-size: 22px;
+}
+input{
+    display: block;
+    width: 750px;
+    height: 45px;
+    padding: 0 0 0 50px;
+    border: none;
+    font-size: 18px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 3px;
+    opacity: 0.86;
+    margin-bottom: 30px;
+}
+.mid p span{
+    color: #229DE8;
+}
+.mid p{
+    display: inline;
+    margin-right: 45px;
+}
+.mid button{
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #229DE8;
+    color: #fff;
+    font-size: 18px;
+    box-shadow: 0px 0px 2px .3px gainsboro;
+}

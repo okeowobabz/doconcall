@@ -1,0 +1,80 @@
+@charset "UTF-8";
+header nav span{
+    margin-left: 410px;
+    width: 450px;
+}
+.left{
+float: left;
+color: #6E7275;
+font-size: 17px;
+width: 35%;
+margin-left: 160px; 
+}
+.left h1{
+ font-size: 33px;
+ color: #229DE8;
+ font-weight: 400;
+ margin-bottom: 5px;
+ margin-top: 80px;
+}
+.left p{
+    margin: 0;
+}
+input{
+display: block;
+height: 60px;
+width: 400px;
+
+border: none;
+border-bottom: .5px solid #707070;
+font-size: 16px;
+}
+#cf{
+    margin-top: 50px;
+    margin-bottom: 55px;
+}
+#fp{
+    text-align: right;
+    margin-top: 18px;
+    margin-right: 70px;
+    color: #229DE8;
+}
+.left button{
+    background-color: #229DE8;
+    color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 2px 2px #00000029;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.five{
+    margin-top: 45%;
+}
+.right{
+float: left;
+color: #6E7275;
+font-size: 17px;
+margin-left: 130px; 
+width: 40%;
+}
+.right h1{
+    font-size: 33px;
+ color: #229DE8;
+ font-weight: 400;
+ margin-bottom: 5px;
+ margin-top: 80px;
+}
+.right button{
+    background-color: #229DE8;
+    color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 2px 2px #00000029;
+    font-size: 18px;
+    margin-top: 20px;
+}

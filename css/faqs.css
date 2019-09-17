@@ -1,0 +1,37 @@
+@charset "UTF-8";
+header nav span{
+    margin-left: 410px;
+    width: 450px;
+}
+#fq{
+    color: #B60B05;
+    font-weight: 500;
+}
+main{
+    padding: 65px 135px 0px 140px;
+    font-size: 25px;
+}
+main h1{
+    font-size: 60px;
+    color: #229DE8;
+}
+main p{
+    
+    color: #4C4E50;
+}
+main div{
+    width: 1100px;
+    height: 95px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    color: #229DE8;
+    padding: 5px 45px 15px 45px;
+    margin-bottom: 20px;
+    opacity: 0.78;
+}
+#img1{
+    float: right;
+}
+.five{
+    margin-top: 5%;
+}
